@@ -133,3 +133,54 @@ main {
     color: #005FAC;
     margin-top: 24px;
 }
+
+/* footer part */
+.last-part {
+    background-color: black;
+    margin-top: 130px;
+    color: #FFFFFF;
+    display: flex;
+}
+
+.social-media {
+    margin: 130px 300px 130px 200px;
+}
+
+.subscribe {
+    margin: 130px 229px 243px 100px;
+}
+
+.icon-list {
+    display: flex;
+    list-style: none;
+    padding: 30px;
+    justify-content: flex-start
+}
+
+.icon-list li {
+    padding-right: 20px;
+
+}
+
+.email {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: black;
+    color: #FFFFFF;
+    width: 275px;
+    height: 64px;
+    left: 1000px;
+    top: 2500px;
+}
+
+.subs-btn {
+    width: 150px;
+    height: 60px;
+    left: 1000px;
+    top: 2900px;
+    background-color: #005FAC;
+    color: white;
+    border: none;
+
+
+}
