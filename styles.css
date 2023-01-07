@@ -1,0 +1,45 @@
+body {
+    height: 100%;
+    background-image: url('images/banner/banner3.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.writing-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 30px 130px 37px 700px;
+}
+
+.heading-motivation {
+    font-weight: 700px;
+    font-size: 55px;
+    text-align: right;
+    color: #FFFFFF;
+    margin-bottom: 28px;
+}
+
+.heading-description {
+    font-weight: 100px;
+    font-size: 16px;
+    text-align: right;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.contact-btn {
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    padding: 20px;
+    color: #005FAC;
+    margin: 30px 130px 37px 272px;
+}
